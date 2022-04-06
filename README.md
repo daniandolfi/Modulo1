@@ -1,9 +1,22 @@
 # TP1_2022
-Andolfi - Alvarez - Bascolo - Herrera
+<b>
+Alumnos:
+  </b>
+<p>
+Andolfi
+<p>
+Alvarez
+<p>
+Bascolo
+<p>
+Herrera
+  <p>
 
-Profesores
+  <b>
+Profesores:
+  </b>
 <h1>
 R. Palma
-</h1>
-
+  <p>
 L. Gomez 
+</h1>
