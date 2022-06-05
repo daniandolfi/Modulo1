@@ -1,22 +1,17 @@
-# TP1_2022
+# Modulo Nº 1
 <b>
+  
 Alumnos:
+  
   </b>
+  
 <p>
-Andolfi
+Andolfi, Daniel
 <p>
-Alvarez
+Alvarez, Martina
 <p>
-Bascolo
+Bascolo, Felicitas
 <p>
-Herrera
+Herrera, Lisandro
   <p>
 
-  <b>
-Profesores:
-  </b>
-<h1>
-R. Palma
-  <p>
-A. Gomez 
-</h1>
